@@ -1,7 +1,12 @@
 ![image](https://github.com/Somorovd/somorovd/assets/18534469/2ccf69a4-daa5-49b6-8ee6-6acfbd4054ee)
 
 ### Hi there, Im Daniel Somorov
-I am a full stack web developer and long time passionate creative coder. 
+
+💾 Developer
+⚙️ Engineer
+⚡ Physicist
+🧪 Chemist
+🎨 Generative Artist
 
 ![image](https://github.com/Somorovd/somorovd/assets/18534469/a8c20f45-6a36-481f-9724-3fd37c7f55bb)
 
